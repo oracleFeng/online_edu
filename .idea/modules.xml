@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/xueyuan_common/xueyuan_common.iml" filepath="$PROJECT_DIR$/xueyuan_common/xueyuan_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xueyuan_microservice/xueyuan_microservice.iml" filepath="$PROJECT_DIR$/xueyuan_microservice/xueyuan_microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xueyuan_parent.iml" filepath="$PROJECT_DIR$/xueyuan_parent.iml" />
+    </modules>
+  </component>
+</project>
